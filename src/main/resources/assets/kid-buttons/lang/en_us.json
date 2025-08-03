@@ -1,0 +1,18 @@
+{
+  "mod.kid-buttons.name": "Kid-Friendly Buttons",
+  "mod.kid-buttons.description": "Easy buttons for young Minecraft players!",
+
+  "gui.kid-buttons.section.gamemode": "🎮 MODE",
+  "gui.kid-buttons.section.time": "🌞 TIME",
+  "gui.kid-buttons.section.weather": "🌤 WEATHER",
+
+  "gui.kid-buttons.button.creative": "Switch to Creative Mode",
+  "gui.kid-buttons.button.survival": "Switch to Survival Mode",
+  "gui.kid-buttons.button.sunrise": "Sunrise (6 AM)",
+  "gui.kid-buttons.button.noon": "Noon",
+  "gui.kid-buttons.button.sunset": "Sunset (6 PM)",
+  "gui.kid-buttons.button.midnight": "Midnight",
+  "gui.kid-buttons.button.clear": "Clear Sky",
+  "gui.kid-buttons.button.rain": "Rain",
+  "gui.kid-buttons.button.thunder": "Thunder Storm"
+}

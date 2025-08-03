@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "fletchertyler914.kidbuttons.mixin.client",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["ChatHudMixin"],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

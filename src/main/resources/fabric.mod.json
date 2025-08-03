@@ -1,0 +1,35 @@
+{
+  "schemaVersion": 1,
+  "id": "kid-buttons",
+  "version": "${version}",
+  "name": "Kid‑Friendly Buttons",
+  "description": "A simple HUD overlay with emoji buttons for common commands like time, weather, and gamemode changes. Perfect for young players!",
+  "authors": ["fletchertyler914"],
+  "contact": {
+    "homepage": "https://fabricmc.net/",
+    "sources": "https://github.com/fletchertyler914/kid-buttons-1.21.8"
+  },
+  "license": "CC0-1.0",
+  "icon": "assets/kid-buttons/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["fletchertyler914.kidbuttons.KidButtons"],
+    "client": ["fletchertyler914.kidbuttons.KidButtonsClient"]
+  },
+  "mixins": [
+    "kid-buttons.mixins.json",
+    {
+      "config": "kid-buttons.client.mixins.json",
+      "environment": "client"
+    }
+  ],
+  "depends": {
+    "fabricloader": ">=0.16.14",
+    "minecraft": "~1.21.8",
+    "java": ">=21",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "another-mod": "*"
+  }
+}
