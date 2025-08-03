@@ -220,14 +220,16 @@ This mod is open source! Contributions are welcome:
 
 ## 📜 License
 
-This project is licensed under the **CC0-1.0 License** - completely free to use, modify, and distribute.
+This project is licensed under the **MIT License with Commercial Restriction** - see the [LICENSE](LICENSE) file for details.
 
 This means you can:
 
-- ✅ Use the mod freely
+- ✅ Use the mod freely for personal and educational purposes
 - ✅ Modify it for personal use
 - ✅ Share it with others
-- ✅ Include it in other projects
+- ✅ Include it in open source projects
+- ✅ Use it in community servers and modpacks
+- ❌ **Cannot sell or monetize** the mod commercially
 
 ---
 
@@ -261,7 +263,7 @@ _[Note: Add screenshots of the interface in action, showing the purple overlay w
 
 ## 🔗 Links
 
-- **GitHub Repository:** https://github.com/fletchertyler914/kid-buttons-1.21.8
+- **GitHub Repository:** https://github.com/fletchertyler914/kid-buttons
 - **Fabric API:** Required dependency
 - **Fabric Loader:** Required for installation
 - **Minecraft 1.21.8:** Required game version

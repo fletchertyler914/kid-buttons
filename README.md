@@ -4,7 +4,7 @@
 
 [![Minecraft Version](https://img.shields.io/badge/Minecraft-1.21.8-green.svg)](https://www.minecraft.net/)
 [![Fabric](https://img.shields.io/badge/Fabric-API-blue.svg)](https://fabricmc.net/)
-[![License](https://img.shields.io/badge/License-CC0--1.0-lightgrey.svg)](https://creativecommons.org/publicdomain/zero/1.0/)
+[![License](https://img.shields.io/badge/License-MIT%20with%20Commercial%20Restriction-lightgrey.svg)](LICENSE)
 
 ---
 

@@ -7,9 +7,9 @@
   "authors": ["fletchertyler914"],
   "contact": {
     "homepage": "https://fabricmc.net/",
-    "sources": "https://github.com/fletchertyler914/kid-buttons-1.21.8"
+    "sources": "https://github.com/fletchertyler914/kid-buttons"
   },
-  "license": "CC0-1.0",
+  "license": "MIT",
   "icon": "assets/kid-buttons/icon.png",
   "environment": "*",
   "entrypoints": {
